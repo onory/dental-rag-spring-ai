@@ -1,0 +1,33 @@
+CONSULTORIO DENTAL - DRA. NANCY RIVERA
+Ubicación: Col. Roma Norte, Ciudad de México.
+Horario general de atención: Lunes a Viernes de 09:00 a 19:00 hrs. Sábados de 09:00 a 14:00 hrs.
+
+DISPONIBILIDAD DE AGENDA (SEMANA ACTUAL):
+- Lunes:
+  * 09:00 - 11:00: Ocupado (Cirugía tercer molar)
+  * 11:30 - 13:00: DISPONIBLE
+  * 16:00 - 18:30: DISPONIBLE
+- Martes:
+  * 09:00 - 14:00: Ocupado (Ortodoncia y ajustes)
+  * 15:00 - 17:00: DISPONIBLE
+  * 17:30 - 19:00: Ocupado (Resinas múltiples)
+- Miércoles:
+  * 10:00 - 12:30: DISPONIBLE
+  * 13:00 - 19:00: Ocupado (Jornada académica)
+- Jueves:
+  * 09:00 - 12:00: DISPONIBLE
+  * 13:00 - 15:00: Ocupado (Endodoncia)
+  * 15:30 - 18:00: DISPONIBLE
+- Viernes:
+  * 09:00 - 11:00: DISPONIBLE
+  * 11:30 - 16:00: Ocupado (Rehabilitación protésica)
+  * 16:30 - 18:30: DISPONIBLE
+- Sábado:
+  * 09:00 - 11:30: Ocupado (Pacientes infantiles)
+  * 12:00 - 14:00: DISPONIBLE
+
+SERVICIOS Y DURACIÓN ESTIMADA:
+- Valoración general y diagnóstico: 30 minutos ($500 MXN).
+- Limpieza dental ultrasónica (profilaxis): 45 minutos ($950 MXN).
+- Resina fotocurable por pieza: 60 minutos ($1,200 MXN).
+- Blanqueamiento dental en consultorio: 90 minutos ($3,200 MXN).
